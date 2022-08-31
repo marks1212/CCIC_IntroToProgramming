@@ -1,0 +1,12 @@
+int x = 3*3;
+println ((2+2)*9);
+println (x+3);
+println (10/5);
+println(1+2-3*3);
+println(x+5);
+println((true && true) == true);
+println(10+10==20);
+println( true && true);
+println(10>11);
+println(5*2==10);
+println(6>8 && 8>1);
