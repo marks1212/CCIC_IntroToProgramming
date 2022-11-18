@@ -25,7 +25,7 @@ if(DISC >= 0 ){
   println(" X is " + NUMADD/DENO);
   println(" X is " + NUMSUB/DENO);
 }else{
-  printlns("Can't find a solution!");
+  println("Can't find a solution!");
 }
 int[][] DOW ={{43,52,50,72,82,88,72},
 {70,68,86,72,75,81,75},
